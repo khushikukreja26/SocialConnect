@@ -89,18 +89,13 @@ Endpoints used:
 ---
 
 ## 📷 Screenshots
-## App Screenshots
-
-![Home Screen](MainScreen.png)
-
-![User Screen](UserView.png)
-
-![Address Screen](AddressView.png)
-
-![Posts Screen](PostView.png)
-
-![Comments Screen](CommentsView.png)
-
+<p align="center">
+<img src="MainScreen.png" width="200">
+<img src="UserView.png" width="200">
+<img src="AddressView.png" width="200">
+<img src="PostView.png" width="200">
+<img src="CommentsView.png" width="200">
+</p>
 
 ---
 
